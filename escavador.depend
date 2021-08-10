@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628615998 source:c:\users\mathe\documents\ufpr\linguagem de programação 1\escavador\main.c
+	<stdio.h>
+	<stdlib.h>
+
